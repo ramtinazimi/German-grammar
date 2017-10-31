@@ -1,5 +1,5 @@
 # German-grammar
-This is summary of all grammatical rules consisting in the German language.
+This is a summary of some grammatical rules consisting in the German language.
 
 This report was done during my work as a German teacher at Colegio Arenas Internacional on Lanzarote.
 It was aimed for Spanish students who were being taught the German language.
